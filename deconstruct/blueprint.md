@@ -16,16 +16,16 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 ## Stage Map (First Pass)
 
 ### Stage: CH0001-CH0040 - Entry Contract & First Lever
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=17, reversal=12, question=7, reward=1, open=3
-  - Top terms: 起来 大哥 胜哥 只是 秘籍 没说话 没事 路胜笑了笑 路胜一愣 了下 很快 大公子 / 大公子 起来 路胜笑了笑 小胜 胜公子 很快 道长 可惜 轻轻 胜哥 好吧 深蓝
-
+- Stage goal (refined,爽点导向):
+  - Establish the world contract: danger is real (妖/鬼) and only personal power solves it.
+  - Confirm the core lever: a visible "modifier/system" that converts time -> skill layers and enables fusion.
+  - Produce early wins to prove leverage (rapid mastery, first hard fights, first anomaly encounter).
+- Opponent form (refined):
+  -   - Primary pressure: looming supernatural threat + local violence (bandits/criminals).
+  -   - Secondary pressure: social order (family, officials, gate rumors) reinforcing urgency.
+- Payoff type (refined):
+  -   - Payoff loop: train/upgrade -> test in real conflict -> survive -> unlock deeper system (推演/融合).
+  -   - End-of-stage feel: protagonist is no longer "ordinary"; has repeatable growth method and first supernatural lead.
 - Evidence windows to sample:
   - Early window: 
 ### Stage: CH0041-CH0120 - Local Power Build & First Ladder
