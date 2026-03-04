@@ -15,65 +15,93 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 
 ## Stage Map (First Pass)
 
-### Stage: CH0001-CH0060 - Entry & Local Conflict
+### Stage: CH0001-CH0040 - Entry Contract & First Lever
 - Stage goal (to be refined):
-  - Build survival -> local dominance -> access bigger arena.
+  - [fill after sampling windows]
 - Opponent form (to be refined):
-  - Local forces -> organized factions -> higher-order entities/rules.
+  - [fill after sampling windows]
 - Payoff type (to be refined):
-  - Small frequent wins + 1-2 major step-ups per stage.
-- Local signature terms (sample, for anchoring):
-  - 公子, 起来, 胜哥, 大公子, 大哥, 只是, 小胜, 黑虎刀法, 很快, 深蓝, 秘籍, 路胜笑了笑, 没说话, 没事, 路胜摇头
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0001-CH0020
+  - Mid window: CH0020-CH0039
 
-### Stage: CH0061-CH0180 - Faction/City Power Build
+### Stage: CH0041-CH0120 - Local Power Build & First Ladder
 - Stage goal (to be refined):
-  - Build survival -> local dominance -> access bigger arena.
+  - [fill after sampling windows]
 - Opponent form (to be refined):
-  - Local forces -> organized factions -> higher-order entities/rules.
+  - [fill after sampling windows]
 - Payoff type (to be refined):
-  - Small frequent wins + 1-2 major step-ups per stage.
-- Local signature terms (sample, for anchoring):
-  - 公子, 下来, 路胜淡淡道, 赤极心法, 没事, 起来, 路胜, 老大, 老帮主洪明资, 走吧, 李公子, 怪异, 特效, 路胜点头, 是啊
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0041-CH0060
+  - Mid window: CH0080-CH0099
 
-### Stage: CH0181-CH0360 - Sect/Upper Selection
+### Stage: CH0121-CH0220 - Faction Pressure & Rule Exposure
 - Stage goal (to be refined):
-  - Build survival -> local dominance -> access bigger arena.
+  - [fill after sampling windows]
 - Opponent form (to be refined):
-  - Local forces -> organized factions -> higher-order entities/rules.
+  - [fill after sampling windows]
 - Payoff type (to be refined):
-  - Small frequent wins + 1-2 major step-ups per stage.
-- Local signature terms (sample, for anchoring):
-  - 路胜一愣, 不笑, 特效, 起来, 通道, 好了, 说起来, 很快, 师兄, 明虚功, 路胜, 朝龙, 下来, 路胜点头, 路胜吩咐道
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0121-CH0140
+  - Mid window: CH0170-CH0189
 
-### Stage: CH0361-CH0620 - Bigger World / Systems
+### Stage: CH0221-CH0360 - Arena Shift / Selection Track
 - Stage goal (to be refined):
-  - Build survival -> local dominance -> access bigger arena.
+  - [fill after sampling windows]
 - Opponent form (to be refined):
-  - Local forces -> organized factions -> higher-order entities/rules.
+  - [fill after sampling windows]
 - Payoff type (to be refined):
-  - Small frequent wins + 1-2 major step-ups per stage.
-- Local signature terms (sample, for anchoring):
-  - 起来, 路胜点头, 路师兄, 路胜, 很快, 神兵, 另外, 过来, 不错, 走吧, 路胜笑了笑, 地步, 身上, 之人, 一般
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0221-CH0240
+  - Mid window: CH0290-CH0309
 
-### Stage: CH0621-CH0930 - Mythic Scale Expansion
+### Stage: CH0361-CH0520 - System Expansion & New Map
 - Stage goal (to be refined):
-  - Build survival -> local dominance -> access bigger arena.
+  - [fill after sampling windows]
 - Opponent form (to be refined):
-  - Local forces -> organized factions -> higher-order entities/rules.
+  - [fill after sampling windows]
 - Payoff type (to be refined):
-  - Small frequent wins + 1-2 major step-ups per stage.
-- Local signature terms (sample, for anchoring):
-  - 很快, 格纱, 起来, 路胜, 另外, 下来, 路胜点头, 力量, 放心吧, 多流派综合格, 路胜一愣, 好了, 之力, 算了, 世界
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0361-CH0380
+  - Mid window: CH0440-CH0459
+
+### Stage: CH0521-CH0700 - Midgame Consolidation & New Economics
+- Stage goal (to be refined):
+  - [fill after sampling windows]
+- Opponent form (to be refined):
+  - [fill after sampling windows]
+- Payoff type (to be refined):
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0521-CH0540
+  - Mid window: CH0610-CH0629
+
+### Stage: CH0701-CH0930 - Mythic Scale / Authority Elevation
+- Stage goal (to be refined):
+  - [fill after sampling windows]
+- Opponent form (to be refined):
+  - [fill after sampling windows]
+- Payoff type (to be refined):
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0701-CH0720
+  - Mid window: CH0815-CH0834
 
 ### Stage: CH0931-CH1213 - Endgame Escalation & Closure
 - Stage goal (to be refined):
-  - Build survival -> local dominance -> access bigger arena.
+  - [fill after sampling windows]
 - Opponent form (to be refined):
-  - Local forces -> organized factions -> higher-order entities/rules.
+  - [fill after sampling windows]
 - Payoff type (to be refined):
-  - Small frequent wins + 1-2 major step-ups per stage.
-- Local signature terms (sample, for anchoring):
-  - 那么, 起来, 好了, 王东, 之力, 路胜, 路胜点头, 幽器使, 轰隆, 路胜点点头, 咕噜, 妖神, 能量, 没问题, 在一起
+  - [fill after sampling windows]
+- Evidence windows to sample:
+  - Early window: CH0931-CH0950
+  - Mid window: CH1072-CH1091
 
 ## Key Beats (Placeholder)
 - To be filled by sampling windows: entry incident, first lever confirmed, first major win, arena shift, rule expansion, endgame convergence.
