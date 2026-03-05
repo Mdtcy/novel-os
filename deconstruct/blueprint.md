@@ -33,23 +33,26 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch: 2.625
   - Top reward signals: 第:38 层:30 提升:16 得到:9 突破:4 成功:2 融合:2 强化:2 推演:2
 
-### Stage: CH0041-CH0120 - Local Power Build & First Ladder
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=25, reversal=11, question=2, reward=0, open=2
-  - Top terms: 是啊 起来 了下 路胜眯了眯眼 过来 三层 地方 灯笼 路兄 画舫 说起来 宋振国一愣 / 特效 下来 赤极心法 路胜点头 没事 外首 起来 血网 路胜想了想 当真 深蓝 强化火毒
-
-- Evidence windows to sample:
+### Stage: CH0041-CH0120 - 本地势力扩张 & 第一层对手阶梯（Stage2）
+- 阶段目标（写实，爽点导向）：
+  - 把“系统杠杆”从个人速成，升级为可持续的成长引擎：推演/融合/特效化，形成稳定优势。
+  - 完成“本地权力入场”：从江湖个体变成组织体系（帮会/长老/外务使）中的关键角色，获得资源渠道。
+  - 建立第一层对手阶梯：对手从散乱事件升级为有组织的势力压迫，并开始出现“上层盯梢/摸底”。
+- 对手形态（写实）：
+  - 组织型压力为主：帮会内部权力结构（外务使/长老/副帮主/帮主）+ 官府与帮会的互相牵制。
+  - 危机仍高频出现，但更强调“在组织规则内打赢”，逼格通过“地位重新定价”完成。
+- 回报方式（写实）：
+  - 爽点=“反装逼式打脸”：对手按错误信息轻视/挑衅→主角不解释→一次超规格动作封喉→旁观者抬价→马上抛出更高层对手/规则。
+  - 成长兑现以“特效/推演/融合”呈现：例如赤极心法的特效升级链（强化火毒/震荡/引燃）带来直观战斗收益。
+  - 两章一节拍：奇章多铺垫与加压，偶章更容易落解决/升级/硬钩子（适配日更两章的追读节拍）。
+- 证据窗口（采样）：
+  - early：CH0041-CH0060（推演按钮仍在、计划推演黑煞功、组织任命/摸底）
+  - mid：CH0080-CH0099（赤极心法特效升级链、帮会高层会议/召集令、主角被“重新定价”）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 80; Avg chars/ch: 3461
   - Hook counts: crisis=45, reversal=22, question=7, reward=3, open=3
-  - Reward-signal hits avg/ch: 3.5
-  - Top reward signals: 层:67 第:67 提升:38 得到:29 推演:17 特效:16 突破:14 强化:11 融合:9 成功:6 统管:2 上交:2
+  - Reward-signal hits avg/ch (cleaned): 1.825
+  - Top reward signals (cleaned): 提升:38 得到:29 推演:17 特效:16 突破:14 强化:11 融合:9 成功:6 统管:2 上交:2 奖励:1 晋升:1
 
 ### Stage: CH0121-CH0220 - Faction Pressure & Rule Exposure
 - Stage goal (draft,爽点导向):
