@@ -1,0 +1,9 @@
+stage,range,chapters,avg_chars,hook_crisis,hook_reversal,hook_question,hook_reward,hook_open,reward_signal_hits_avg_clean,top_reward_signals_clean
+Stage1 Entry Contract & First Lever,CH0001-CH0040,40,3488,17,11,8,1,3,0.925,提升:16 得到:9 突破:4 成功:2 融合:2 强化:2 推演:2
+Stage2 Local Power Build & First Ladder,CH0041-CH0120,80,3461,45,22,7,3,3,1.825,提升:38 得到:29 推演:17 特效:16 突破:14 强化:11 融合:9 成功:6 统管:2 上交:2 奖励:1 晋升:1
+Stage3 Faction Pressure & Rule Exposure,CH0121-CH0220,100,3466,58,20,12,9,1,2.17,得到:54 提升:49 突破:39 推演:17 特效:16 强化:14 成功:14 融合:9 上交:2 晋升:2 奖励:1
+Stage4 Arena Shift / Selection Track,CH0221-CH0360,140,3482,84,34,8,11,3,1.971,得到:63 提升:56 突破:42 强化:30 成功:27 融合:18 特效:18 推演:17 奖励:2 晋升:1 统管:1 上交:1
+Stage5 System Expansion & New Map,CH0361-CH0520,160,3480,102,24,11,18,5,2.263,得到:78 提升:70 突破:59 推演:46 成功:35 融合:35 强化:18 特效:11 奖励:4 晋升:4 上交:2
+Stage6 Midgame Consolidation & New Economics,CH0521-CH0700,180,3519,112,29,16,22,1,2.556,得到:97 提升:83 突破:62 融合:58 推演:50 成功:46 强化:28 晋升:23 奖励:5 上交:3 大帝:2 统管:2
+Stage7 Mythic Scale / Authority Elevation,CH0701-CH0930,230,3508,152,34,25,14,5,2.017,提升:105 得到:92 突破:64 成功:59 强化:52 推演:50 融合:18 晋升:8 统管:7 奖励:3 特效:2 分封:2
+Stage8 Endgame Escalation & Closure,CH0931-CH1213,283,3499,159,56,36,23,9,1.859,提升:115 得到:115 突破:67 成功:63 强化:61 融合:52 推演:28 大帝:11 奖励:6 统管:3 晋升:3 上交:1
