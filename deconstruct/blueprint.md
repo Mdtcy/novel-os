@@ -138,23 +138,27 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch (cleaned): 2.556
   - Top reward signals (cleaned): 得到:97 提升:83 突破:62 融合:58 推演:50 成功:46 强化:28 晋升:23 奖励:5 上交:3 大帝:2 统管:2
 
-### Stage: CH0701-CH0930 - Mythic Scale / Authority Elevation
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=25, reversal=6, question=4, reward=4, open=1
-  - Top terms: 起来 好了 很快 是的 问题 那么 龙火术 主人 过来 怎么样 算了 当然 / 好了 那么 法典 协调之风 很快 东西 起来 杰克 这里 是啊 算了 不错
-
-- Evidence windows to sample:
+### Stage: CH0701-CH0930 - 神话尺度：规则/权柄抬升 & 封号统御型兑现（Stage7）
+- 阶段目标（写实，爽点导向）：
+  - 把“打脸”从战斗胜负升级为“规则与权柄胜负”：主角不只是赢，而是被体系正式定价（封号、统管、权柄）。
+  - 把爽点从“我很强”升级为“我掌规则的一部分”：从能力碾压→权限碾压（火、南方、神炎等可被统御的对象）。
+  - 继续维持两章节拍：高频危机与反转不降，把终局级兑现埋在更大的神话叙事里。
+- 对手形态（写实）：
+  - 神话级势力对抗与阵营博弈：妖庭/妖神/巫族/太一等作为“宏观对手”，冲突更像权力结构的博弈。
+  - 规则型对手更强：不是某个敌人，而是“谁能动用更高层规则/封诏/大阵”。
+- 回报方式（写实）：
+  - 爽点=权柄兑现式打脸：对手按旧层级误定价→主角以更高层权柄/封号被官方（规则层）确认→旁观者与阵营集体重新定价。
+  - 兑现形态偏“封号/统管/大帝/符诏”：例如明确的分封与统管范围，属于阶段大回报。
+  - 两章一节拍继续成立：奇章铺垫阵营与规则压力，偶章更容易落权柄兑现/硬钩子。
+- 证据窗口（采样）：
+  - early：CH0701-CH0720（“破坏规则”的意图抬头、人物跪地式定价信号）
+  - mid：CH0820-CH0839（法典/认知器官等“规则叙事”的载体）
+  - late payoff cluster：CH0920-CH0930（妖庭/妖神叙事推进；CH0929 明确分封为南明朱雀大帝并统管火之权柄）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 230; Avg chars/ch: 3508
   - Hook counts: crisis=152, reversal=34, question=25, reward=14, open=5
-  - Reward-signal hits avg/ch: 3.687
-  - Top reward signals: 第:199 层:185 提升:105 得到:92 突破:64 成功:59 强化:52 推演:50 融合:18 晋升:8 统管:7 奖励:3
+  - Reward-signal hits avg/ch (cleaned): 2.017
+  - Top reward signals (cleaned): 提升:105 得到:92 突破:64 成功:59 强化:52 推演:50 融合:18 晋升:8 统管:7 奖励:3 特效:2 分封:2
 
 ### Stage: CH0931-CH1213 - Endgame Escalation & Closure
 - Stage goal (draft,爽点导向):
