@@ -117,23 +117,26 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch (cleaned): 2.263
   - Top reward signals (cleaned): 得到:78 提升:70 突破:59 推演:46 成功:35 融合:35 强化:18 特效:11 奖励:4 晋升:4 上交:2
 
-### Stage: CH0521-CH0700 - Midgame Consolidation & New Economics
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=26, reversal=6, question=3, reward=5, open=0
-  - Top terms: 起来 阿桑 邪灵 很快 好了 咔嚓 路胜点头 那是 问题 力量 黑骨 这里 / 很快 路胜点头 好了 另外 问题 的话 多流派综合格 下来 口气 力量 这里 路胜皱了皱眉
-
-- Evidence windows to sample:
+### Stage: CH0521-CH0700 - 中期巩固：寄神力经济学成型 & 爽点密度最高（Stage6）
+- 阶段目标（写实，爽点导向）：
+  - 把“变强”变成可计算的经济系统：寄神力/源力/神纹/降临资源→成为主角的成长货币与调度能力。
+  - 在高层世界里完成“定价权飞跃”：别人按旧标准估他顶多某层级，他用资源与体系优势直接把上限顶穿。
+  - 把打脸从“战斗场面”升级到“规则/交易/漏洞层面”：主角不仅更强，还更懂系统、懂博弈。
+- 对手形态（写实）：
+  - 高层规则与势力：圣主/兵主层面的评估体系、跨界资源掠夺、门徒组织与交易规则。
+  - 对手经常是“规则漏洞/公正交易/门徒体系”本身——主角在里面当玩家、不是当韭菜。
+- 回报方式（写实）：
+  - 爽点=资源碾压+规则碾压：主角一边节约寄神力（只用来破瓶颈），一边用降临搜刮把经济盘子越做越大。
+  - 兑现常以“密集升级/能力段位叠加”呈现：例如格斗术段数推演、力量爆发力攀登、神纹获得等，读感是连续爬坡。
+  - 两章一节拍继续成立：奇章讲规则/加压/设局，偶章落破局/升级/硬钩子。
+- 证据窗口（采样）：
+  - early：CH0521-CH0540（寄神力消耗策略、神纹获得、圣主层级的重新定价）
+  - mid：CH0610-CH0629（格斗术段数推演、节约寄神力破瓶颈；红月门徒/交易/漏洞/讲法道的规则型爽点）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 180; Avg chars/ch: 3519
   - Hook counts: crisis=112, reversal=29, question=16, reward=22, open=1
-  - Reward-signal hits avg/ch: 4.256
-  - Top reward signals: 层:159 第:147 得到:97 提升:83 突破:62 融合:58 推演:50 成功:46 强化:28 晋升:23 奖励:5 上交:3
+  - Reward-signal hits avg/ch (cleaned): 2.556
+  - Top reward signals (cleaned): 得到:97 提升:83 突破:62 融合:58 推演:50 成功:46 强化:28 晋升:23 奖励:5 上交:3 大帝:2 统管:2
 
 ### Stage: CH0701-CH0930 - Mythic Scale / Authority Elevation
 - Stage goal (draft,爽点导向):
