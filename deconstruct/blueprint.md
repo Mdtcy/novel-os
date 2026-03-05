@@ -1,19 +1,19 @@
-# Blueprint (Macro Structure)
-This is a first-pass phase map, optimized for "more爽": reward loop, escalation ladder, and stage payoffs.
-Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pairs.
-## Reader Promise (Opening Contract)
+# 蓝图（宏观结构 Blueprint）
+这是“更爽”优先的结构蓝图：关注爽点循环、升级台阶、阶段性回报。
+备注：作者基本一天两章，所以很多钩子落在“两章一节拍”（两章合一个大钩子/兑现点）。
+## 读者承诺（开篇契约）
 - Core fantasy: constant capability/agency growth under pressure.
 - Rhythm: frequent danger + frequent small wins; periodic big step-ups.
 - Hook style: crisis/reversal heavy; many chapter-pair beats.
 
-## Reward Loop (爽点循环)
+## 爽点循环（Reward Loop）
 1) Threat appears (rules/monsters/factions)
 2) Protagonist finds a lever (skill/system/resource/info)
 3) Fast execution (training/experiment/raid/negotiation)
 4) Visible payoff (win/upgrade/resource/status)
 5) New, larger threat revealed (escalation)
 
-## Stage Map (First Pass)
+## 阶段划分（写实版）
 
 ### Stage: CH0001-CH0040 - Entry Contract & First Lever
 - Stage goal (refined,爽点导向):
@@ -27,9 +27,9 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Payoff loop: train/upgrade -> test in real conflict -> survive -> unlock deeper system (推演/融合).
   - End-of-stage feel: protagonist is no longer "ordinary"; has repeatable growth method and first supernatural lead.
 - Evidence windows to sample:
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 40; Avg chars/ch: 3488
-  - Hook counts: crisis=17, reversal=11, question=8, reward=1, open=3
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 40; 平均字数/章： 3488
+  - 章尾钩子计数： crisis=17, reversal=11, question=8, reward=1, open=3
   - Reward-signal hits avg/ch: 2.625
   - Top reward signals: 第:38 层:30 提升:16 得到:9 突破:4 成功:2 融合:2 强化:2 推演:2
 
@@ -48,11 +48,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 - 证据窗口（采样）：
   - early：CH0041-CH0060（推演按钮仍在、计划推演黑煞功、组织任命/摸底）
   - mid：CH0080-CH0099（赤极心法特效升级链、帮会高层会议/召集令、主角被“重新定价”）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 80; Avg chars/ch: 3461
-  - Hook counts: crisis=45, reversal=22, question=7, reward=3, open=3
-  - Reward-signal hits avg/ch (cleaned): 1.825
-  - Top reward signals (cleaned): 提升:38 得到:29 推演:17 特效:16 突破:14 强化:11 融合:9 成功:6 统管:2 上交:2 奖励:1 晋升:1
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 80; 平均字数/章： 3461
+  - 章尾钩子计数： crisis=45, reversal=22, question=7, reward=3, open=3
+  - 有效升级/收益信号密度（均值/章）： 1.825
+  - 高频收益信号（cleaned）： 提升:38 得到:29 推演:17 特效:16 突破:14 强化:11 融合:9 成功:6 统管:2 上交:2 奖励:1 晋升:1
 
 ### Stage: CH0121-CH0220 - 上层压迫成型 & 规则暴露（Stage3）
 - 阶段目标（写实，爽点导向）：
@@ -69,11 +69,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 - 证据窗口（采样）：
   - early：CH0121-CH0140（重伤中毒→必须推演阴阳玉鹤并吸收宝瓶气形成“治疗底盘”；上层/组织压力频繁出现）
   - mid：CH0170-CH0189（赤极九煞功+阴阳玉鹤宝瓶气的阴阳合一、血网形态、气液/年功力等“质变指标”）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 100; Avg chars/ch: 3466
-  - Hook counts: crisis=58, reversal=20, question=12, reward=9, open=1
-  - Reward-signal hits avg/ch (cleaned): 2.17
-  - Top reward signals (cleaned): 得到:54 提升:49 突破:39 推演:17 特效:16 强化:14 成功:14 融合:9 上交:2 晋升:2 奖励:1
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 100; 平均字数/章： 3466
+  - 章尾钩子计数： crisis=58, reversal=20, question=12, reward=9, open=1
+  - 有效升级/收益信号密度（均值/章）： 2.17
+  - 高频收益信号（cleaned）： 得到:54 提升:49 突破:39 推演:17 特效:16 强化:14 成功:14 融合:9 上交:2 晋升:2 奖励:1
 
 ### Stage: CH0221-CH0360 - 赛道切换：会盟/学派竞技场 & 规则密度暴涨（Stage4）
 - 阶段目标（写实，爽点导向）：
@@ -90,11 +90,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 - 证据窗口（采样）：
   - early：CH0221-CH0240（会盟/学派队列、挑战规则、误定价与叫门）
   - mid：CH0290-CH0309（魔灾/更大舞台压力，轻功体系继续上探，公开压迫与跪倒画面）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 140; Avg chars/ch: 3482
-  - Hook counts: crisis=84, reversal=34, question=8, reward=11, open=3
-  - Reward-signal hits avg/ch (cleaned): 1.971
-  - Top reward signals (cleaned): 得到:63 提升:56 突破:42 强化:30 成功:27 融合:18 特效:18 推演:17 奖励:2 晋升:1 统管:1 上交:1
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 140; 平均字数/章： 3482
+  - 章尾钩子计数： crisis=84, reversal=34, question=8, reward=11, open=3
+  - 有效升级/收益信号密度（均值/章）： 1.971
+  - 高频收益信号（cleaned）： 得到:63 提升:56 突破:42 强化:30 成功:27 融合:18 特效:18 推演:17 奖励:2 晋升:1 统管:1 上交:1
 
 ### Stage: CH0361-CH0520 - 体系扩张：寄神力/神兵/灵力并联 & 地图再升级（Stage5）
 - 阶段目标（写实，爽点导向）：
@@ -111,11 +111,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 - 证据窗口（采样）：
   - early：CH0361-CH0380（神兵/寄神力逻辑成型；移星刀决层数离谱、特效急速；神魂维度被抬到“恐怖层次”）
   - mid：CH0440-CH0459（灵力体系与推演按钮；人/虎/龙分级；破阵/毁禁作为系统级碾压的兑现形态）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 160; Avg chars/ch: 3480
-  - Hook counts: crisis=102, reversal=24, question=11, reward=18, open=5
-  - Reward-signal hits avg/ch (cleaned): 2.263
-  - Top reward signals (cleaned): 得到:78 提升:70 突破:59 推演:46 成功:35 融合:35 强化:18 特效:11 奖励:4 晋升:4 上交:2
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 160; 平均字数/章： 3480
+  - 章尾钩子计数： crisis=102, reversal=24, question=11, reward=18, open=5
+  - 有效升级/收益信号密度（均值/章）： 2.263
+  - 高频收益信号（cleaned）： 得到:78 提升:70 突破:59 推演:46 成功:35 融合:35 强化:18 特效:11 奖励:4 晋升:4 上交:2
 
 ### Stage: CH0521-CH0700 - 中期巩固：寄神力经济学成型 & 爽点密度最高（Stage6）
 - 阶段目标（写实，爽点导向）：
@@ -132,11 +132,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 - 证据窗口（采样）：
   - early：CH0521-CH0540（寄神力消耗策略、神纹获得、圣主层级的重新定价）
   - mid：CH0610-CH0629（格斗术段数推演、节约寄神力破瓶颈；红月门徒/交易/漏洞/讲法道的规则型爽点）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 180; Avg chars/ch: 3519
-  - Hook counts: crisis=112, reversal=29, question=16, reward=22, open=1
-  - Reward-signal hits avg/ch (cleaned): 2.556
-  - Top reward signals (cleaned): 得到:97 提升:83 突破:62 融合:58 推演:50 成功:46 强化:28 晋升:23 奖励:5 上交:3 大帝:2 统管:2
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 180; 平均字数/章： 3519
+  - 章尾钩子计数： crisis=112, reversal=29, question=16, reward=22, open=1
+  - 有效升级/收益信号密度（均值/章）： 2.556
+  - 高频收益信号（cleaned）： 得到:97 提升:83 突破:62 融合:58 推演:50 成功:46 强化:28 晋升:23 奖励:5 上交:3 大帝:2 统管:2
 
 ### Stage: CH0701-CH0930 - 神话尺度：规则/权柄抬升 & 封号统御型兑现（Stage7）
 - 阶段目标（写实，爽点导向）：
@@ -154,11 +154,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - early：CH0701-CH0720（“破坏规则”的意图抬头、人物跪地式定价信号）
   - mid：CH0820-CH0839（法典/认知器官等“规则叙事”的载体）
   - late payoff cluster：CH0920-CH0930（妖庭/妖神叙事推进；CH0929 明确分封为南明朱雀大帝并统管火之权柄）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 230; Avg chars/ch: 3508
-  - Hook counts: crisis=152, reversal=34, question=25, reward=14, open=5
-  - Reward-signal hits avg/ch (cleaned): 2.017
-  - Top reward signals (cleaned): 提升:105 得到:92 突破:64 成功:59 强化:52 推演:50 融合:18 晋升:8 统管:7 奖励:3 特效:2 分封:2
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 230; 平均字数/章： 3508
+  - 章尾钩子计数： crisis=152, reversal=34, question=25, reward=14, open=5
+  - 有效升级/收益信号密度（均值/章）： 2.017
+  - 高频收益信号（cleaned）： 提升:105 得到:92 突破:64 成功:59 强化:52 推演:50 融合:18 晋升:8 统管:7 奖励:3 特效:2 分封:2
 
 ### Stage: CH0931-CH1213 - 终局：连续压服→终结→留后路（Stage8）
 - 阶段目标（写实，爽点导向）：
@@ -175,11 +175,11 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
 - 证据窗口（采样）：
   - early：CH0931-CH0950（妖庭妖神规模、寄生/控制权推进、朱雀神火开路等终局压服形态）
   - late：CH1194-CH1213（虚无/混沌/永恒三方规则；终章“戒指/联系工具/必须走一趟”的后路钩子）
-- Stage metrics (from full-book rhythm table):
-  - Chapters: 283; Avg chars/ch: 3499
-  - Hook counts: crisis=159, reversal=56, question=36, reward=23, open=9
-  - Reward-signal hits avg/ch (cleaned): 1.859
-  - Top reward signals (cleaned): 提升:115 得到:115 突破:67 成功:63 强化:61 融合:52 推演:28 大帝:11 奖励:6 统管:3 晋升:3 上交:1
+- 阶段指标（来自全书节奏表）：
+  - 章节数： 283; 平均字数/章： 3499
+  - 章尾钩子计数： crisis=159, reversal=56, question=36, reward=23, open=9
+  - 有效升级/收益信号密度（均值/章）： 1.859
+  - 高频收益信号（cleaned）： 提升:115 得到:115 突破:67 成功:63 强化:61 融合:52 推演:28 大帝:11 奖励:6 统管:3 晋升:3 上交:1
 
 ## Key Beats (Placeholder)
 - To be filled by sampling windows: entry incident, first lever confirmed, first major win, arena shift, rule expansion, endgame convergence.
