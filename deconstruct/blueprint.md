@@ -54,23 +54,26 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch (cleaned): 1.825
   - Top reward signals (cleaned): 提升:38 得到:29 推演:17 特效:16 突破:14 强化:11 融合:9 成功:6 统管:2 上交:2 奖励:1 晋升:1
 
-### Stage: CH0121-CH0220 - Faction Pressure & Rule Exposure
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=25, reversal=6, question=6, reward=3, open=0
-  - Top terms: 起来 路兄 不错 大人 下来 刹那间 内气 特效 过来 路胜一愣 另外 轰隆 / 姐姐 樱樱 起来 对了 很快 好了 力量 路帮主 一动不动 阴阳玉鹤宝瓶 路胜一愣 果然
-
-- Evidence windows to sample:
+### Stage: CH0121-CH0220 - 上层压迫成型 & 规则暴露（Stage3）
+- 阶段目标（写实，爽点导向）：
+  - 把“危机”升级为“上层规则压迫”：主角被更高层势力/规矩盯上，容错率降低，必须在强压下继续变强。
+  - 把成长引擎从“特效链”推进到“阴阳体系闭环”：阴阳玉鹤功吸收宝瓶气，形成以治疗/抗毒/稳定为核心的内在底盘；再与强爆裂阳功配合，形成可承受的超规格输出。
+  - 把主角从“被重新定价”推进到“定价权在我”：在组织与上层面前逐步确立不可轻视的地位。
+- 对手形态（写实）：
+  - 上层与组织压力常态化：大人物/府/官府/帮会高层围绕主角展开试探、利用、压制与交易。
+  - 危机不是单点妖鬼，而是“规则+组织+暗算”组合拳：一旦露怯就会被吃掉（文中反复强调“绝对不能露怯/一旦被发现重伤不能动手就麻烦”）。
+- 回报方式（写实）：
+  - 爽点=强压下继续打脸：对手按旧认知轻视→主角在不利条件下仍能以“体系闭环”稳住并反制→旁观者抬价→更高层压力随之到来。
+  - 成长兑现以“阴阳闭环+气液/年功力/血网”呈现：输出更猛，但靠阴阳底盘抗住反噬，形成持续碾压能力。
+  - 两章一节拍仍成立：奇章多呈现压迫与隐患，偶章更容易落解决/升级/硬钩子（适配日更两章）。
+- 证据窗口（采样）：
+  - early：CH0121-CH0140（重伤中毒→必须推演阴阳玉鹤并吸收宝瓶气形成“治疗底盘”；上层/组织压力频繁出现）
+  - mid：CH0170-CH0189（赤极九煞功+阴阳玉鹤宝瓶气的阴阳合一、血网形态、气液/年功力等“质变指标”）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 100; Avg chars/ch: 3466
   - Hook counts: crisis=58, reversal=20, question=12, reward=9, open=1
-  - Reward-signal hits avg/ch: 3.92
-  - Top reward signals: 层:90 第:85 得到:54 提升:49 突破:39 推演:17 特效:16 强化:14 成功:14 融合:9 上交:2 晋升:2
+  - Reward-signal hits avg/ch (cleaned): 2.17
+  - Top reward signals (cleaned): 得到:54 提升:49 突破:39 推演:17 特效:16 强化:14 成功:14 融合:9 上交:2 晋升:2 奖励:1
 
 ### Stage: CH0221-CH0360 - Arena Shift / Selection Track
 - Stage goal (draft,爽点导向):
