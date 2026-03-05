@@ -75,23 +75,26 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch (cleaned): 2.17
   - Top reward signals (cleaned): 得到:54 提升:49 突破:39 推演:17 特效:16 强化:14 成功:14 融合:9 上交:2 晋升:2 奖励:1
 
-### Stage: CH0221-CH0360 - Arena Shift / Selection Track
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=24, reversal=9, question=2, reward=5, open=0
-  - Top terms: 学派 路兄 好吧 路胜点头 秘术 时间 师弟 算了 起来 下来 师兄 异穴宗 / 那么 轰隆 这里 路胜平静道 元魔宗 终于 就在这时 神威 一切 炸开 的地步 不好
-
-- Evidence windows to sample:
+### Stage: CH0221-CH0360 - 赛道切换：会盟/学派竞技场 & 规则密度暴涨（Stage4）
+- 阶段目标（写实，爽点导向）：
+  - 完成“舞台切换”：从地方组织线，切到百脉会盟/学派竞技场，主角进入同层顶尖密集区。
+  - 把爽点从“组织内打脸”升级为“公开竞技场打脸”：在众目睽睽下让对手误定价→被当场碾碎→旁观者集体重估。
+  - 成长引擎继续扩张：秘术体系成为新主轴（元魔气/听幽功/魔心道等），并强调“体系强弱差”带来的跨纹数碾压。
+- 对手形态（写实）：
+  - 规则型对手：会盟规则、挑战权、学派队列与资源分配；对手不只是人，更是赛制与博弈。
+  - 同层顶尖对手成群：首席/师兄师姐/强学派集体出现，误定价常来自“没落宗门/分区弱”这种标签。
+- 回报方式（写实）：
+  - 爽点=公开处刑式打脸：对手基于标签轻视（元魔宗没落/秘术粗劣）→主角用“体系强度+超规格输出”一波压服→旁观者抬价→立刻引出更大灾变/更强对手。
+  - 大兑现常以“规则层面的收益”呈现：排名/挑战权/资源与联盟资格（以及战力质变，如蛇级层面压制多个蛇级）。
+  - 两章一节拍继续成立：奇章多铺垫规则与误定价，偶章更容易落公开压服/硬钩子。
+- 证据窗口（采样）：
+  - early：CH0221-CH0240（会盟/学派队列、挑战规则、误定价与叫门）
+  - mid：CH0290-CH0309（魔灾/更大舞台压力，轻功体系继续上探，公开压迫与跪倒画面）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 140; Avg chars/ch: 3482
   - Hook counts: crisis=84, reversal=34, question=8, reward=11, open=3
-  - Reward-signal hits avg/ch: 3.636
-  - Top reward signals: 层:124 第:109 得到:63 提升:56 突破:42 强化:30 成功:27 融合:18 特效:18 推演:17 奖励:2 晋升:1
+  - Reward-signal hits avg/ch (cleaned): 1.971
+  - Top reward signals (cleaned): 得到:63 提升:56 突破:42 强化:30 成功:27 融合:18 特效:18 推演:17 奖励:2 晋升:1 统管:1 上交:1
 
 ### Stage: CH0361-CH0520 - System Expansion & New Map
 - Stage goal (draft,爽点导向):
