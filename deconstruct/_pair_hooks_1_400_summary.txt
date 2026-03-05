@@ -1,0 +1,7 @@
+pair count: 200
+
+first-of-pair hook dist:
+Counter({'crisis': 111, 'reversal': 51, 'question': 19, 'reward': 13, 'open': 6})
+
+second-of-pair hook dist:
+Counter({'crisis': 124, 'reversal': 41, 'question': 18, 'reward': 13, 'open': 4})
