@@ -96,23 +96,26 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch (cleaned): 1.971
   - Top reward signals (cleaned): 得到:63 提升:56 突破:42 强化:30 成功:27 融合:18 特效:18 推演:17 奖励:2 晋升:1 统管:1 上交:1
 
-### Stage: CH0361-CH0520 - System Expansion & New Map
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=23, reversal=10, question=2, reward=4, open=1
-  - Top terms: 路胜点头 路师兄 起来 很快 不错 另外 过来 身上 兴趣 路胜笑了笑 不只是他 特效 / 路胜笑了笑 灵力 好了 很快 没关系 起来 别飞鹤 东西 没事 路胜点头 师傅 路重
-
-- Evidence windows to sample:
+### Stage: CH0361-CH0520 - 体系扩张：寄神力/神兵/灵力并联 & 地图再升级（Stage5）
+- 阶段目标（写实，爽点导向）：
+  - 把“变强”从单一功法/秘术，升级为多体系并联：寄神力作为通用燃料，神兵/神魂作为高维资源，灵力体系作为新增长曲线。
+  - 让主角的碾压更“合理”：靠资源与体系优势（寄神力、推演按钮、神魂高度）实现跨体系压制。
+  - 引入新地图/新规则：神兵拍卖、邪兵试验、阵法禁地、灵力等级（人/虎/龙）等，给后续爽点提供更大承载。
+- 对手形态（写实）：
+  - 物件/规则型对手上升：神兵/邪兵带来的代价与风险（暴虐、试验、榜单、禁制），以及宗门内部的利益与话语权。
+  - 对手不只“人”，更是“阵法/禁地/世界规则”：毁阵、破禁、本质就是展示系统级碾压。
+- 回报方式（写实）：
+  - 爽点=体系碾压式打脸：别人还在争资源/讲规矩→主角用寄神力+推演把体系直接拉满→以破阵/破禁/跨级强压完成重新定价。
+  - 大兑现往往是“系统级事件”：例如把一套大阵/禁地直接打穿，或者把某体系推演到离谱层数/特效等级，形成不可讨论的优势。
+  - 两章一节拍继续成立：奇章铺垫规则与代价，偶章落破局/破阵/升级与硬钩子。
+- 证据窗口（采样）：
+  - early：CH0361-CH0380（神兵/寄神力逻辑成型；移星刀决层数离谱、特效急速；神魂维度被抬到“恐怖层次”）
+  - mid：CH0440-CH0459（灵力体系与推演按钮；人/虎/龙分级；破阵/毁禁作为系统级碾压的兑现形态）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 160; Avg chars/ch: 3480
   - Hook counts: crisis=102, reversal=24, question=11, reward=18, open=5
-  - Reward-signal hits avg/ch: 3.844
-  - Top reward signals: 层:129 第:124 得到:78 提升:70 突破:59 推演:46 成功:35 融合:35 强化:18 特效:11 奖励:4 晋升:4
+  - Reward-signal hits avg/ch (cleaned): 2.263
+  - Top reward signals (cleaned): 得到:78 提升:70 突破:59 推演:46 成功:35 融合:35 强化:18 特效:11 奖励:4 晋升:4 上交:2
 
 ### Stage: CH0521-CH0700 - Midgame Consolidation & New Economics
 - Stage goal (draft,爽点导向):
