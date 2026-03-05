@@ -160,23 +160,26 @@ Note: author updates ~2 chapters/day, so hooks often resolve/land on chapter pai
   - Reward-signal hits avg/ch (cleaned): 2.017
   - Top reward signals (cleaned): 提升:105 得到:92 突破:64 成功:59 强化:52 推演:50 融合:18 晋升:8 统管:7 奖励:3 特效:2 分封:2
 
-### Stage: CH0931-CH1213 - Endgame Escalation & Closure
-- Stage goal (draft,爽点导向):
-  - Leverage + rapid growth; keep pressure high; convert risk into visible gains.
-- Opponent form (draft):
-  - Threat events + organized forces; pressure scales as capability rises.
-- Payoff type (draft):
-  - Frequent crisis->resolution beats; periodic step-up via "lever" (system/skill/resource).
-- Evidence (sample windows):
-  - Hook dist (2x20ch): crisis=23, reversal=9, question=5, reward=2, open=1
-  - Top terms: 起来 那么 好了 之力 咕噜 妖神 轰隆 主人 东西 妖庭 放心吧 雀神火 / 起来 那么 帕雷恩 的人 对了 很快 路胜点头 卡菲莱迪尔 大人 丝线 另外 能师
-
-- Evidence windows to sample:
+### Stage: CH0931-CH1213 - 终局：连续压服→终结→留后路（Stage8）
+- 阶段目标（写实，爽点导向）：
+  - 把前面积累的权柄/体系优势转化为“终局连续压服”：不是赢一场，而是连续收割、连续控制、连续终结。
+  - 让终局仍保持爽感：大场面（妖庭/妖神/大战）+ 规则层终局（虚无/混沌/永恒）并行，既宏观又有硬兑现。
+  - 结尾留后路：终章不是纯完结，而是给出“下一段更大棋局/新对手”的可延展钩子（联系工具/前往某处）。
+- 对手形态（写实）：
+  - 前半段：妖庭体系内的终局对抗（妖神数量、阵法、大军），核心是“控制权/寄生/夺取核心物”。
+  - 后半段：三大机关/三大本质之力（虚无/混沌/永恒）升格为最终规则对手，冲突从势力战升格为“规则本质战争”。
+- 回报方式（写实）：
+  - 爽点=终局统治与压服：在大军与妖神海里开路、强行分割战场、夺取控制权，体现权柄碾压。
+  - 终局兑现同时给“解释权”：大量规则解释（虚无/混沌/永恒）不是水，而是为下一层对抗建立可玩规则。
+  - 两章一节拍继续成立：奇章铺垫终局压力/规则解释，偶章落压服/终结/硬钩子与终章后路。
+- 证据窗口（采样）：
+  - early：CH0931-CH0950（妖庭妖神规模、寄生/控制权推进、朱雀神火开路等终局压服形态）
+  - late：CH1194-CH1213（虚无/混沌/永恒三方规则；终章“戒指/联系工具/必须走一趟”的后路钩子）
 - Stage metrics (from full-book rhythm table):
   - Chapters: 283; Avg chars/ch: 3499
   - Hook counts: crisis=159, reversal=56, question=36, reward=23, open=9
-  - Reward-signal hits avg/ch: 3.403
-  - Top reward signals: 第:226 层:211 提升:115 得到:115 突破:67 成功:63 强化:61 融合:52 推演:28 大帝:11 奖励:6 统管:3
+  - Reward-signal hits avg/ch (cleaned): 1.859
+  - Top reward signals (cleaned): 提升:115 得到:115 突破:67 成功:63 强化:61 融合:52 推演:28 大帝:11 奖励:6 统管:3 晋升:3 上交:1
 
 ## Key Beats (Placeholder)
 - To be filled by sampling windows: entry incident, first lever confirmed, first major win, arena shift, rule expansion, endgame convergence.
